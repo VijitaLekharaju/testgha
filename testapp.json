@@ -2,5 +2,5 @@
   productName: "helloworld-app",
   platformProject: "azcpe",
   imageDir: "akscpe",
-  testcase: "attempt4"
+  testcase: "attempt5"
 }
